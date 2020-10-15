@@ -1,0 +1,1 @@
+a project that uses web scraping on www.bookdepository.com that search for a title of the book and gives the names and prices of the result
